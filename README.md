@@ -9,7 +9,7 @@
 - 🔭 **Currently Working On:** Fine-tuning Transformer models & building interactive AI web dashboards.
 - 💡 **Core Expertise:** Python, NLP (XLM-RoBERTa, SVM), Flask, Streamlit, REST APIs, JavaScript, PWA Engineering.
 - 🎯 **Goal:** Developing scalable AI and Web solutions to solve real-world challenges.
-- 📫 **How to reach me:** mudasirdir@gmail.com
+- 📫 **How to reach me:** mudasir.dir@gmail.com
 - 🔗 **LinkedIn:** [Connect on LinkedIn](linkedin.com/in/muhammad-muddasar-mansoor-334773271)
 
 ---
